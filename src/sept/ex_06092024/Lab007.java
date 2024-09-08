@@ -1,4 +1,4 @@
-package SEPT.ex_06092024;
+package sept.ex_06092024;
 /*Author - Easha
 * Program-ATB8x
 * Program to explain the comments

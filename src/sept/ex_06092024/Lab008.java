@@ -1,6 +1,6 @@
 //Below code is package : Folder with the sept->ex_06092024 folder
 
-package SEPT.ex_06092024;
+package sept.ex_06092024;
 
 /*
 * Author : Easha

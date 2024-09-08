@@ -1,4 +1,4 @@
-package SEPT.ex_06092024;
+package sept.ex_06092024;
 
 public class Lab006 {
 
