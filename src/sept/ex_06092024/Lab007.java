@@ -21,6 +21,21 @@ public class Lab007 {
         *
         * */
 
+
+        /*
+         *
+         * Multiline comments
+         *
+         * */
+
+
+        /**
+         *
+         * Java documentation Multiline comments
+         *
+         * **/
+
+
         System.out.println("Hi, Sir");
 
     }
