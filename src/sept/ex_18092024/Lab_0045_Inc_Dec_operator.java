@@ -8,9 +8,9 @@ public class Lab_0045_Inc_Dec_operator {
         // Pre - Increment -- ++ operand.
         // Value is incremented first and then stored in the result
 
-        int a = 20;
-        int  b = ++a; // a = a+1 -- this ++a do this way of increment value
-        System.out.println(b);
+//        int a = 20;
+//        int  b = ++a; // a = a+1 -- this ++a do this way of increment value
+//        System.out.println(b);
 
         //Post Increment = a++
         //Print first then increase
