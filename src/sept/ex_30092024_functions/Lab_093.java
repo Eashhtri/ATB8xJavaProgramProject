@@ -14,6 +14,10 @@ public class Lab_093 {
         // 3.With Parameters and Without Return Type
         function_type3(18, "Easha", "Eashh",27);
 
+        // 4. With Parameters and With Return Type
+        int result = function_type4(3,4);
+        System.out.println(result);
+
 
     }
 
@@ -34,6 +38,13 @@ public class Lab_093 {
         System.out.println("3.With Parameters and Without Return Type");
         System.out.println("You have shared ->" + name);
         System.out.println("Age is 18" + age2);
+
+    }
+
+    // 4. With Parameters and With Return Type
+    public static int function_type4(int a, int b){
+        System.out.println("4. With Parameters and With Return Type");
+        return a+b;
     }
 
 }
