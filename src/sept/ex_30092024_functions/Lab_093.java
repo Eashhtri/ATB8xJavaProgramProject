@@ -26,6 +26,7 @@ public class Lab_093 {
         System.out.println("1.Without Parameters and Without Return Type");
     }
 
+    // 2.Without Parameters but With Return Type -- Return type is like(int,string )
     public static String function_type2() {
         System.out.println("2.Without Parameters but With Return Type");
         return "Easha";
